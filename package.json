@@ -13,5 +13,8 @@
     "@types/frida-gum": "^19.0.0",
     "@types/node": "^18.14.0",
     "frida-compile": "19.1.0"
+  },
+  "overrides": {
+    "frida": "17.17.0"
   }
 }
